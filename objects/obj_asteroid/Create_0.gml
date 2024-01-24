@@ -1,7 +1,7 @@
 /// @desc
 // You can write your code in this editor
 sprite_index = choose(
-spr_asteroids_small,spr_asteroid_mid,spr_astroids_huge
+spr_asteroid_small,spr_asteroid_mid,spr_asteroid_huge
 );
 
 direction = irandom_range(0,359);
