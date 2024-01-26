@@ -1,6 +1,6 @@
 /// @desc
 // You can write your code in this editor
-speed = 6
+speed = 8
 
 
 
